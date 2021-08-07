@@ -25,24 +25,22 @@
   * 정확도
   * 절대적인 수치로 판단하지 않는다.
 
-* Supervised Learning (지도학습)
 
-  ![image-20210804192233774](C:\Users\HOME\AppData\Roaming\Typora\typora-user-images\image-20210804192233774.png)
+![image-20210804192233774](TensorFlow 2.0.assets/image-20210804192233774.png)
+
+* Supervised Learning (지도학습)
 
   * Classification (분류)
     * Class가 있는 것. (범주형)
     * 명확하게 구분지을 수 있는 것
-
+  
   * 회귀
     * 연속된 수치 (수치형)
-
-    
-
   
 
-  ![](C:\Users\HOME\AppData\Roaming\Typora\typora-user-images\image-20210804192701080.png)
+![image-20210804192701080](TensorFlow 2.0.assets/image-20210804192701080.png)
 
-![image-20210804192756857](C:\Users\HOME\AppData\Roaming\Typora\typora-user-images\image-20210804192756857.png)
+![image-20210804192756857](TensorFlow 2.0.assets/image-20210804192756857.png)
 
 * 구분 tip! 소문자 복수. 단수
 
@@ -88,7 +86,7 @@
 
 * 검증이 연한 파랑
 
-![image-20210804201901732](TensorFlow 2.0.assets/image-20210804201901732-16280759426071.png)
+![image-20210804201901732](TensorFlow 2.0.assets/image-20210804201901732.png)
 
 * 파랑이 훈련셋 노랑이 검증셋. 과적합 주의 접점을 잘 찾아내야한다.
 
